@@ -3,8 +3,11 @@
 
 ### Can be started using
 
-  npm install
-  npm start
+
+```bash
+# npm install
+$ npm run start
+```
 
 
 Runs on Port 4002 by default
