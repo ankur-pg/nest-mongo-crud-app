@@ -1,8 +1,10 @@
 ## Simple NestJs App
 
+
 ### Can be started using
 
-npm install
-npm start
+  npm install
+  npm start
 
-#### Runs on Port 4002 by default
+
+Runs on Port 4002 by default
